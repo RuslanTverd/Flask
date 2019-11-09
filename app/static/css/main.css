@@ -1,0 +1,55 @@
+body { /* Комментарий */
+	background-color: rgb(200, 224, 255);
+}
+h1 {
+	color: rgb(21, 31, 44);
+	margin-bottom: 0px;
+}
+h5 {
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+#sidebar_col_left {
+	background-color: rgb(67, 85, 109);
+}
+#sidebar_col_center {
+	background-color: rgb(67, 85, 109);
+	text-align: center;
+}
+#sidebar_col_right {
+	background-color: rgb(67, 85, 109);
+	text-align: right;
+}
+.nav {
+	margin-top: 1px;
+}
+#sidebar_link a {
+	color: rgb(195, 201, 154);
+}
+#sidebar_link a:hover {
+	color: rgb(255, 255, 255);
+}
+#sidebar_link_active a {
+	color: rgb(201, 219, 85);
+}
+#sidebar_link_active a:hover {
+	color: rgb(255, 255, 255);
+}
+#sidebar_batton_div {
+	position: absolute;
+	right: 10px;
+	padding-top: 2px;
+}
+#sidebar_batton_li_signin {
+	margin-left: 20px;
+	margin-right: 20px;
+	/*margin-top: 5px;*/
+}
+#sidebar_batton_registration {
+	background-color: #2c9932;
+	border-color: #2c9932;
+}
+/*#container_content {
+	background-color: rgb(63, 91, 128);
+	text-align: center;
+}*/
